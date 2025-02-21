@@ -1,6 +1,8 @@
 CJMCU - An arduino Leonardo board, than can be used as HIC device like a keyboard. 
 https://github.com/asciiterminal/CJMCU_ATMEGA32U4_BADUSB
 
+![alt text](https://github.com/pmartinezrhub/BadUSB/blob/main/CJMCU.jpg)
+
 If you are targeting spanish keyboard replace Keyboard lib folder with Keyboard 
 
 Disclaimer: Only for educational purposes, i decline any responsability over use of this repository content. 
