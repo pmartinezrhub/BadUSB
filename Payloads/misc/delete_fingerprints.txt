@@ -1,0 +1,6 @@
+REM Delete history 
+STRING clear
+ENTER
+REM Delte history
+STRING history -c
+ENTER

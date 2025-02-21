@@ -1,0 +1,13 @@
+REM Simple script example. the file should called script.txt or will fail
+REM It will just print "Hello World!" text.
+REM It is OS independent script.
+REM
+DELAY 3000
+STRING this is a test only for checking is the thing is working
+DELAY 3000
+STRING this is a test only for checking is the thing is working
+DELAY 3000
+STRING this is a test only for checking is the thing is working
+DELAY 3000
+STRING this is a test only for checking is the thing is working
+ENTER
